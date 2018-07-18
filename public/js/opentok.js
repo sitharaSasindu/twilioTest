@@ -1,4 +1,4 @@
-const session = OT.initSession(apiKey, sessionId);
+const session = OT.initSession(46155612, 1_MX40NjE1NTYxMn5-MTUzMTg4MzEyMzE2N34wRUg3eHpEVVFNcExVdkV2TEoyWFY5M2d-fg);
 
 session.on({
   streamCreated: (event) => {

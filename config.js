@@ -1,10 +1,10 @@
 module.exports = {
-  apiKey: '3489492',
-  apiSecret: 'dfd0119bc7ea365ecef9a5a58d9c88760ec7fb58',
+  apiKey: '46155612',
+  apiSecret: 'd41000634278874b551d481445ee2f1a9ddd5098',
   sip: {
-    uri: 'breakouttokbox',
-    username: 'twilioauth',
-    password: 'Innovationfoundry@123',
+    uri: 'tokboxbreakout.pstn.twilio.com',
+    username: 'auth',
+    password: 'psiTwilio#12',
   },
-  callerId: '+12397781615',
+  callerId: '+18435942018',
 };
